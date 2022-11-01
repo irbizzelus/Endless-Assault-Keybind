@@ -1,0 +1,20 @@
+{
+	"name" : "Endless Assault Keybind",
+	"description" : "Kinda self-explanatory",
+	"author": "irbizzelus",
+    "contact": "Steam profile link is on my modworkshop account",
+	"version" : "1.0",
+	"priority" : 998,
+	"blt_version" : 2,
+	"keybinds" : [
+        {
+            "keybind_id" : "EndlessAssaultKeybindID",
+            "name" : "Endless Assault",
+            "description" : "Press key to enable endless assault."
+            "script_path" : "endless.lua",
+            "run_in_menu" : false,
+            "run_in_game" : true,
+			"localized"   : false,
+        }	
+    ]
+}
